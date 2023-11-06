@@ -56,7 +56,7 @@ body {
 
 .details {
     position: relative;
-    background-image: url(car3.jpg);
+    background: url(file:///C:/Users/win10/Desktop/Carvilla%20Free%20Website%20Template%20-%20Free-CSS.com/carvilla-v1.0/assets/images/welcome-hero/welcome-banner.jpg);
     background-size: cover;
     background-position: center;
     /* min-height: 620px; */
